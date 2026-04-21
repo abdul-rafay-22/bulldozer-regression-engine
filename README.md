@@ -11,5 +11,5 @@
 ✅ Data Preprocessing: Built an automated pipeline to convert unstructured string data into pandas categories, impute missing numeric values with medians, and handle massive datasets efficiently.
 📁 Project Structurenotebook.ipynb: The core Jupyter Notebook containing the full end-to-end pipeline (Data loading, time-series EDA, feature engineering, model training, and evaluation).data/: Contains the TrainAndValid.csv dataset (Note: Ensure data size is within GitHub limits or provide a link to the Kaggle source).environment.yml / requirements.txt: The isolated local environment dependencies required to replicate this project.
 🚀 How to Run LocallyClone the repository: 
-git clone []
+git clone [https://github.com/abdul-rafay-22/bulldozer-regression-engine]
 Install the required dependencies: pip install -r requirements.txtLaunch Jupyter and open the notebook: jupyter notebook notebook.ipynb
